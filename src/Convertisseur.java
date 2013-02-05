@@ -66,8 +66,9 @@ public class Convertisseur {
 				return bc_f;
 			}
 			
-			return bc_f;
+			
 		}
+		return bc_f;
 	}
 	
 
