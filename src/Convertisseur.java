@@ -16,8 +16,9 @@ public class Convertisseur {
 		fonction=f;
 	}
 	
-	public Convertisseur(int d, String f)
+	public Convertisseur(String n, String f, int d)
 	{
+		nom=n;
 		value_d=d;
 		fonction=f;
 	}
